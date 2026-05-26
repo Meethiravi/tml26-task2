@@ -34,7 +34,7 @@ condor_submit mods.sub
 
 ``` bash  
 In submission.py replace "YOUR_API_KEY" with your actual API Key.
-Also replace "PATH/TO/YOUR/SUBMISSION.csv" with the file path where you want to save the submission file.
+Also replace "PATH/TO/YOUR/SUBMISSION.csv" with your actual filepath.
 ```
 
 ## Submit the score
